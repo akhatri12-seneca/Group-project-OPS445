@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Finish Lab 8",
+    "due": "2025-07-20",
+    "priority": "high",
+    "done": false
+  },
+  {
+    "title": "Submit project report",
+    "due": "2025-07-25",
+    "priority": "medium",
+    "done": true
+  },
+  {
+    "title": "Prepare presentation slides",
+    "due": "2025-07-22",
+    "priority": "high",
+    "done": false
+  },
+  {
+    "title": "Review lecture notes",
+    "due": "2025-07-18",
+    "priority": "low",
+    "done": true
+  },
+  {
+    "title": "Team meeting",
+    "due": "2025-07-19",
+    "priority": "medium",
+    "done": false
+  },
+  {
+    "title": "Update GitHub repository",
+    "due": "2025-07-21",
+    "priority": "medium",
+    "done": false
+  },
+  {
+    "title": "Practice coding exercises",
+    "due": "2025-07-23",
+    "priority": "low",
+    "done": false
+  }
+]
