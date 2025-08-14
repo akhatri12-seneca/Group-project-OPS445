@@ -64,7 +64,7 @@ def mark_done(args):
     if 0 <= index < len(tasks):
         tasks[index]['done'] = True
         save_tasks(tasks)
-        print("✅ Task marked as done.")
+        print("Task marked as done.")
     else:
         print("Invalid task number.")
 
